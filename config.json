@@ -1,0 +1,27 @@
+{
+  "token": "MTM2NTg0ODI2MjE2MjEyMDcxNA.GS7_4c.f8kLYcJtfImjkppu6VO1vCvbox_xerYl8jvgE4",
+  "username": "xkjs7dh2-hf4d9fg",
+  "password": "F@v0w1RpT3zJ",
+  "port": "3000",
+  "clientId": "1365848262162120714",
+  "guildId": "1333864673308708906",
+  "globalDeploy": false,
+  "status": "Online",
+  "website": "Hi",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By Unkown_dev4 🔥",
+  "genChannel": "1365849508277256282",
+  "premiumChannel": "1365849405961277561",
+  "genCooldown": "5",
+  "premiumCooldown": "3",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
